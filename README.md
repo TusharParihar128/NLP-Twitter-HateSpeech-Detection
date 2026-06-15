@@ -536,6 +536,22 @@ Make sure `TwitterHate.csv` is in the same directory as the notebook.
 
 ---
 
+## 🏅 Certification
+
+This project was submitted as part of the **Natural Language Processing** course on [Simplilearn](https://www.simplilearn.com/).
+
+| Detail | Info |
+|--------|------|
+| Platform | Simplilearn |
+| Course | Natural Language Processing |
+| Certificate Date | 14th February 2026 |
+| Certificate Code | 9843811 |
+| Status | ✅ Project Passed \| Test Passed |
+
+> The certificate of completion is included in this repository as `certificate_NLP.pdf`.
+
+---
+
 ## 👤 Author
 
 **Tushar Parihar**  
@@ -546,4 +562,4 @@ MSc Bioinformatics, Savitribai Phule Pune University (SPPU)
 
 ## 📜 License
 
-This project is part of an NLP coursework submission. Feel free to reference or adapt with attribution.
+This project was completed as part of a certified NLP course on Simplilearn. Feel free to reference or adapt with attribution.
